@@ -42,6 +42,5 @@ dependencies:
   - optuna~=2.10.0
   - pip:
     - tensorflow>=2.6.1,<2.7.0
-    - python-binance~=1.0.15
     - datetimerange>=1.0.0
 prefix: /home/cubecloud/anaconda3/envs/hack-base
